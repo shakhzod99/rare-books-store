@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../rare_books_store_from_ide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rare-books-store" vcs="Git" />
   </component>
 </project>
